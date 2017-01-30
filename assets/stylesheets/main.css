@@ -218,6 +218,10 @@ h1, h3, h4, h5, p {
 	font-size: 24px;
 }
 
+.teaser a:hover h3 {
+	color: #a9b2b9;
+}
+
 /*
   ========================================
   Primary header
