@@ -223,6 +223,10 @@ h1, h3, h4, h5, p {
 	float: left;
 }
 
+.tagline {
+	margin: 66px 0 22px 0;
+}
+
 /*
   ========================================
   Primary footer
